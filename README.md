@@ -12,7 +12,7 @@
 ### 📂 Featured Projects
 
 - 🔹 [**TrimonuAddons**](https://github.com/trim0nu/trimonuaddons)
-- 🔹 [**Project Two**](https://github.com/trim0nu/project-two)
+- 🔹 [**Valley Addons**](https://github.com/trim0nu/valleyaddons)
 - 🔹 [**Project Three**](https://github.com/trim0nu/project-three)
 
 ---
