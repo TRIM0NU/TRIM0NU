@@ -13,7 +13,7 @@
 
 - 🔹 [**TrimonuAddons**](https://github.com/trim0nu/trimonuaddons)
 - 🔹 [**Valley Addons**](https://github.com/trim0nu/valleyaddons)
-- 🔹 [**Project Three**](https://github.com/trim0nu/project-three)
+- 🔹 [**MeowMap**](https://github.com/trim0nu/meowmap)
 
 ---
 
