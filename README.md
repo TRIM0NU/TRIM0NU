@@ -11,7 +11,7 @@
 
 ### 📂 Featured Projects
 
-- 🔹 [**Project One**](https://github.com/trim0nu/project-one)
+- 🔹 [**TrimonuAddons**](https://github.com/trim0nu/trimonuaddons)
 - 🔹 [**Project Two**](https://github.com/trim0nu/project-two)
 - 🔹 [**Project Three**](https://github.com/trim0nu/project-three)
 
